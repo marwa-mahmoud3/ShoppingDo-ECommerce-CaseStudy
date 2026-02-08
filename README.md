@@ -49,7 +49,8 @@ ShoppingDo is a comprehensive e-commerce platform developed as a case study duri
 
 ---
 
-## 📸 Screenshots & Image Reference
+## 📸 Visual Journey & Screenshots
+(All screenshots are organized in the [Gallery](/Gallery) folder)
 
 ### Public Website Screenshots
 
