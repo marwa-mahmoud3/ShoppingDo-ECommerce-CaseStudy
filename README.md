@@ -181,13 +181,16 @@ This project demonstrates proficiency in:
 ---
 
 
-## 📧 Contact
+## 👤 About the Developer
 
-**Developer**: Marwa Mahmoud
+**Name:** Marwa Mahmoud El-Khatib
 
-**Email**: [marwa.sw.eng@outlook.com](mailto:marwa.sw.eng@outlook.com)
+**Email:** [marwa.m.elkhatib@outlook.com](mailto:marwa.m.elkhatib@outlook.com)
 
-**Phone**: +201022805990
+**Connect with me:**
+
+- LinkedIn: [marwa-mahmoud-elkhatib](https://www.linkedin.com/in/marwa-mahmoud-elkhatib)
+- Portfolio: [marwa-mahmoud-elkhatib.vercel.app](https://marwa-mahmoud-elkhatib.vercel.app/)
 
 ---
 
